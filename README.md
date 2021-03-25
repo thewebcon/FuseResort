@@ -1,4 +1,4 @@
-# Fuse Resort Repository (Online & Offline Projects)
+# Fuse Resort Repository
 
 Fuse Resort is a project developed and run by Clockwork2002, TheWebCon, ItzPolar, Dr_Orlando, and ThePlasmo.
 Developed for Minecraft Java 1.12.2, on the Fuse Online/Offline projects
